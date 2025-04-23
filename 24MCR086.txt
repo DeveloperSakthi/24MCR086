@@ -1,9 +1,14 @@
-NAME : SAKTHIVEL R
+        NAME : SAKTHIVEL R
 
-REG NO : 24MCR086
-
-
-DEPARTMENT :  MCA
+	REG NO : 24MCR086
 
 
-FAV STACK  :  MERN 
+       	DEPARTMENT :  MCA
+
+
+        FAV STACK  :  MERN 
+
+
+	Mobile : iqoo 9t 
+
+	 Fav Game : FIFA 
